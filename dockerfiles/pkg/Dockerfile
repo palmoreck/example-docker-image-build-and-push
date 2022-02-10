@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:20.04
 
 ENV JUPYTERLAB_VERSION 3.0.0
 ENV LANG C.UTF-8
